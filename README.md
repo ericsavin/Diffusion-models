@@ -6,9 +6,9 @@ GANs, VAEs, and diffusion models in machine learning.
 ## OUTLINE
 
 * Stochastic differential equations (SDEs);
-** First-order stochastic systems driven by noise
-** Stochastic integrals
-** Diffusion processes 
+  - First-order stochastic systems driven by noise
+  - Stochastic integrals
+  - Diffusion processes 
 * Numerical simulations of SDEs;
 * Generative adversarial networks (GANs);
 * Variational auto-encoders (VAEs);
