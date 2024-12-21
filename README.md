@@ -5,21 +5,21 @@ GANs, VAEs, diffusion models, and consitency models in machine learning.
 
 ## OUTLINE
 
-* Stochastic differential equations (SDEs);
-  - First-order stochastic systems driven by noise
-  - Stochastic integrals
-  - Diffusion processes 
-* Numerical simulations of SDEs;
-  - Stochastic modeling with SDEs
-  - Numerical schemes
+* Stochastic differential equations (SDEs):
+  - First-order stochastic systems driven by noise,
+  - Stochastic integrals,
+  - Diffusion processes; 
+* Numerical simulations of SDEs:
+  - Stochastic modeling with SDEs,
+  - Numerical schemes;
 * Generative adversarial networks (GANs);
 * Variational auto-encoders (VAEs);
-* Diffusion models in ML
-  - Continuous setting
-  - Denoising Diffusion Probabilistic Models (DDPM)
-  - Score Matching with Langevin Dynamics (SMLD)
-  - Guidance
-  - Consistency models
+* Diffusion models in ML:
+  - Continuous setting,
+  - Denoising Diffusion Probabilistic Models (DDPM),
+  - Score Matching with Langevin Dynamics (SMLD),
+  - Guidance,
+  - Consistency models.
 
 ## TO BE CONTINUED...
 
