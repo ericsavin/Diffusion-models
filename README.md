@@ -21,5 +21,6 @@ GANs, VAEs, and diffusion models in machine learning.
 ## OTHER RELATED WORKS
 
 [Application to the reconstruction of fluid flows: slides](https://github.com/ericsavin/Talks/blob/main/GdR-I-GAIA-dec2024.pdf)
+
 [Application to the reconstruction of fluid flows: extended abstract](https://hal.science/hal-04699402)
 
