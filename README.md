@@ -1,7 +1,7 @@
 # Generative diffusion models
 
 Wiener process, Stochastic differential equations, diffusion processes, discretization schemes;
-GANs, VAEs, and diffusion models in machine learning.
+GANs, VAEs, diffusion models, and consitency models in machine learning.
 
 ## OUTLINE
 
@@ -10,9 +10,16 @@ GANs, VAEs, and diffusion models in machine learning.
   - Stochastic integrals
   - Diffusion processes 
 * Numerical simulations of SDEs;
+  - Stochastic modeling with SDEs
+  - Numerical schemes
 * Generative adversarial networks (GANs);
 * Variational auto-encoders (VAEs);
-* Diffusion models in ML.
+* Diffusion models in ML
+  - Continuous setting
+  - Denoising Diffusion Probabilistic Models (DDPM)
+  - Score Matching with Langevin Dynamics (SMLD)
+  - Guidance
+  - Consistency models
 
 ## TO BE CONTINUED...
 
